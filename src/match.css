@@ -1,0 +1,8 @@
+.match-line {
+  display: flex;
+  flex-direction: row;
+}
+
+.winner {
+    font-weight: bold;
+}
